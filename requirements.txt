@@ -7,7 +7,7 @@ pillow
 qrcode
 pytz
 requests
-opencv-python
+opencv-python-headless
 python-dotenv
 iso3166
 faker
